@@ -1,2 +1,0 @@
-# Gastos_Control
-API
